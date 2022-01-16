@@ -29,3 +29,5 @@
 *.app
 01-ErrorShow/Debug
 .vs/
+*/Debug/*
+Debug
